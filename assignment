@@ -1,0 +1,5 @@
+1. The general purpose of the Singleton pattern is to:
+Ans : b) Ensure that only one instance of a class exists at the same time.
+
+2. Which of the following is true about Singleton class?
+Ans. c) The class should have exactly one instance.
